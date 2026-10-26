@@ -1,0 +1,35 @@
+[
+ {
+  "id": "explorer",
+  "name": {
+   "vi": "Heritage Explorer",
+   "en": "Heritage Explorer"
+  },
+  "desc": {
+   "vi": "Hoàn thành địa điểm đầu tiên",
+   "en": "Complete your first location"
+  }
+ },
+ {
+  "id": "adv",
+  "name": {
+   "vi": "Imperial City Adventurer",
+   "en": "Imperial City Adventurer"
+  },
+  "desc": {
+   "vi": "Đạt từ 80% điểm ở Đại Nội",
+   "en": "Score 80% or more at the Imperial City"
+  }
+ },
+ {
+  "id": "master",
+  "name": {
+   "vi": "Hue Culture Master",
+   "en": "Hue Culture Master"
+  },
+  "desc": {
+   "vi": "Hoàn thành mọi địa điểm",
+   "en": "Complete every location"
+  }
+ }
+]

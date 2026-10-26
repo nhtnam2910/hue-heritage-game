@@ -1,0 +1,39 @@
+[
+ {
+  "id": "dai-noi",
+  "order": 1,
+  "status": "published",
+  "name": {
+   "vi": "Đại Nội Huế",
+   "en": "Imperial City of Hue"
+  },
+  "intro": {
+   "vi": "Đại Nội Huế là nơi ở và làm việc của vua và triều đình nhà Nguyễn, gồm Hoàng thành và Tử Cấm thành nằm bên trong Kinh thành. Kinh thành Huế được vua Gia Long khởi công xây dựng năm 1805 và được hoàn thiện dưới triều Minh Mạng. Cổng chính phía nam của Hoàng thành là Ngọ Môn, nơi diễn ra nhiều nghi lễ quan trọng của triều đình. Năm 1993, Quần thể di tích Cố đô Huế được UNESCO ghi danh là Di sản thế giới.",
+   "en": "The Imperial City of Hue was the residence and workplace of the emperors and court of the Nguyen Dynasty. It consists of the Imperial Enclosure and the Forbidden Purple City, located inside the Citadel. Construction of the Hue Citadel began in 1805 under Emperor Gia Long and was completed under Emperor Minh Mang. The main southern gate of the Imperial Enclosure is Ngo Mon Gate, where many important court ceremonies were held. In 1993, the Complex of Hue Monuments was inscribed as a UNESCO World Heritage Site."
+  },
+  "image": "assets/img/dai-noi.webp",
+  "imageAlt": {
+   "vi": "Ngọ Môn, cổng chính phía nam của Hoàng thành Huế",
+   "en": "Ngo Mon Gate, the main southern gate of the Hue Imperial Enclosure"
+  },
+  "position": {
+   "lat": 16.4698,
+   "lng": 107.5788
+  },
+  "sources": [
+   "Trung tâm Bảo tồn Di tích Cố đô Huế (hueworldheritage.org.vn)",
+   "UNESCO World Heritage Centre – Complex of Hué Monuments (whc.unesco.org)"
+  ],
+  "unlock": {
+   "requires": null,
+   "minPct": 60
+  },
+  "questionIds": [
+   "dn-01",
+   "dn-02",
+   "dn-03",
+   "dn-04",
+   "dn-05"
+  ]
+ }
+]

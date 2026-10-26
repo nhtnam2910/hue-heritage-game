@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Hue Heritage Game – Khám phá di sản Huế</title>
+  <meta name="description" content="Hue Heritage Game: trò chơi song ngữ Việt – Anh giúp bạn khám phá di sản Cố đô Huế qua bản đồ, câu đố và huy hiệu.">
+  <meta name="theme-color" content="#4A1F70">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;600;700&family=Playfair+Display:wght@600;700;800&display=swap">
+  <link rel="stylesheet" href="lib/leaflet/leaflet.css">
+  <link rel="stylesheet" href="css/base.css">
+  <link rel="stylesheet" href="css/layout.css">
+  <link rel="stylesheet" href="css/components.css">
+</head>
+<body>
+  <svg width="0" height="0" style="position:absolute" aria-hidden="true" focusable="false">
+    <defs>
+      <!-- Hình khối cổng Ngọ Môn cách điệu, dùng cho nền hero và ảnh chờ -->
+      <symbol id="gate" viewBox="0 0 600 220">
+        <path d="M40 130H560V220H40Z M110 220V178a30 30 0 0 1 60 0V220Z M255 220V165a45 45 0 0 1 90 0V220Z M430 220V178a30 30 0 0 1 60 0V220Z" fill-rule="evenodd"/>
+        <path d="M200 70H400V130H200Z"/>
+        <path d="M150 96C225 94 265 86 300 66C335 86 375 94 450 96L440 108H160Z"/>
+        <path d="M222 44C255 42 280 34 300 18C320 34 345 42 378 44L370 54H230Z"/>
+        <path d="M286 18h28v-8l-14-8-14 8Z"/>
+      </symbol>
+    </defs>
+  </svg>
+
+  <a class="skip" id="skip" href="#view">Bỏ qua điều hướng</a>
+  <header id="topbar" class="topbar"></header>
+  <div id="notices"></div>
+  <main id="view" tabindex="-1">
+    <div class="splash" role="status"><span class="splash__mark"></span></div>
+  </main>
+  <nav id="tabbar" class="tabbar" aria-label="Main"></nav>
+  <dialog id="dlg" class="dlg"></dialog>
+  <div id="toast" class="toast" role="status" aria-live="polite"></div>
+
+  <script src="lib/leaflet/leaflet.js"></script>
+  <script src="js/config.js"></script>
+  <script src="js/core.js"></script>
+  <script src="js/icons.js"></script>
+  <script src="js/store.js"></script>
+  <script src="js/i18n.js"></script>
+  <script src="js/scoring.js"></script>
+  <script src="js/badges.js"></script>
+  <script src="js/quiz.js"></script>
+  <script src="js/router.js"></script>
+  <script src="js/ui.js"></script>
+  <script src="js/views/welcome.js"></script>
+  <script src="js/views/map.js"></script>
+  <script src="js/views/location.js"></script>
+  <script src="js/views/quiz.js"></script>
+  <script src="js/views/result.js"></script>
+  <script src="js/views/badges.js"></script>
+  <script src="js/views/about.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>

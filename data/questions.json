@@ -1,0 +1,230 @@
+[
+ {
+  "id": "dn-01",
+  "type": "single_choice",
+  "prompt": {
+   "vi": "Triều đại nào xây dựng Kinh thành Huế?",
+   "en": "Which dynasty built the Hue Citadel?"
+  },
+  "options": [
+   {
+    "id": "a",
+    "text": {
+     "vi": "Nhà Nguyễn",
+     "en": "The Nguyen Dynasty"
+    }
+   },
+   {
+    "id": "b",
+    "text": {
+     "vi": "Nhà Lê",
+     "en": "The Le Dynasty"
+    }
+   },
+   {
+    "id": "c",
+    "text": {
+     "vi": "Nhà Trần",
+     "en": "The Tran Dynasty"
+    }
+   }
+  ],
+  "correct": "a",
+  "hint": {
+   "vi": "Đây là triều đại phong kiến cuối cùng của Việt Nam.",
+   "en": "This was the last feudal dynasty of Vietnam."
+  },
+  "explain": {
+   "vi": "Kinh thành Huế được xây dựng dưới triều Nguyễn, bắt đầu từ năm 1805.",
+   "en": "The citadel was built under the Nguyen Dynasty, starting in 1805."
+  }
+ },
+ {
+  "id": "dn-02",
+  "type": "single_choice",
+  "prompt": {
+   "vi": "Vị vua nào khởi công xây dựng Kinh thành Huế năm 1805?",
+   "en": "Which emperor began building the Hue Citadel in 1805?"
+  },
+  "options": [
+   {
+    "id": "a",
+    "text": {
+     "vi": "Vua Gia Long",
+     "en": "Emperor Gia Long"
+    }
+   },
+   {
+    "id": "b",
+    "text": {
+     "vi": "Vua Minh Mạng",
+     "en": "Emperor Minh Mang"
+    }
+   },
+   {
+    "id": "c",
+    "text": {
+     "vi": "Vua Khải Định",
+     "en": "Emperor Khai Dinh"
+    }
+   },
+   {
+    "id": "d",
+    "text": {
+     "vi": "Vua Tự Đức",
+     "en": "Emperor Tu Duc"
+    }
+   }
+  ],
+  "correct": "a",
+  "hint": {
+   "vi": "Ông là vị vua đầu tiên của triều Nguyễn.",
+   "en": "He was the first emperor of the Nguyen Dynasty."
+  },
+  "explain": {
+   "vi": "Vua Gia Long khởi công năm 1805; công trình được hoàn thiện dưới triều Minh Mạng.",
+   "en": "Emperor Gia Long began construction in 1805; the work was completed under Emperor Minh Mang."
+  }
+ },
+ {
+  "id": "dn-03",
+  "type": "single_choice",
+  "prompt": {
+   "vi": "Cổng chính phía nam của Hoàng thành Huế có tên là gì?",
+   "en": "What is the main southern gate of the Hue Imperial Enclosure called?"
+  },
+  "options": [
+   {
+    "id": "a",
+    "text": {
+     "vi": "Ngọ Môn",
+     "en": "Ngo Mon Gate"
+    }
+   },
+   {
+    "id": "b",
+    "text": {
+     "vi": "Hiển Nhơn Môn",
+     "en": "Hien Nhon Gate"
+    }
+   },
+   {
+    "id": "c",
+    "text": {
+     "vi": "Chương Đức Môn",
+     "en": "Chuong Duc Gate"
+    }
+   },
+   {
+    "id": "d",
+    "text": {
+     "vi": "Cổng Tam Quan",
+     "en": "Tam Quan Gate"
+    }
+   }
+  ],
+  "correct": "a",
+  "hint": {
+   "vi": "Chữ “Ngọ” trong tên cổng gắn với hướng chính nam.",
+   "en": "The word “Ngo” in the name is associated with due south."
+  },
+  "explain": {
+   "vi": "Ngọ Môn là cổng chính của Hoàng thành, nơi diễn ra các nghi lễ lớn của triều đình.",
+   "en": "Ngo Mon is the main gate of the Imperial Enclosure, where major court ceremonies took place."
+  }
+ },
+ {
+  "id": "dn-04",
+  "type": "single_choice",
+  "prompt": {
+   "vi": "Tử Cấm thành là khu vực dành cho ai?",
+   "en": "Who was the Forbidden Purple City reserved for?"
+  },
+  "options": [
+   {
+    "id": "a",
+    "text": {
+     "vi": "Vua và gia đình hoàng gia",
+     "en": "The emperor and the royal family"
+    }
+   },
+   {
+    "id": "b",
+    "text": {
+     "vi": "Dân thường đến buôn bán",
+     "en": "Commoners who came to trade"
+    }
+   },
+   {
+    "id": "c",
+    "text": {
+     "vi": "Binh lính luyện tập",
+     "en": "Soldiers training"
+    }
+   },
+   {
+    "id": "d",
+    "text": {
+     "vi": "Sứ thần nước ngoài",
+     "en": "Foreign envoys"
+    }
+   }
+  ],
+  "correct": "a",
+  "hint": {
+   "vi": "Đây là nơi sinh hoạt riêng của hoàng gia.",
+   "en": "This was the private living area of the royal family."
+  },
+  "explain": {
+   "vi": "Tử Cấm thành là nơi ở và sinh hoạt của vua cùng gia đình, người ngoài rất hạn chế ra vào.",
+   "en": "The Forbidden Purple City was the living area of the emperor and his family, with very limited access for outsiders."
+  }
+ },
+ {
+  "id": "dn-05",
+  "type": "single_choice",
+  "prompt": {
+   "vi": "UNESCO ghi danh Quần thể di tích Cố đô Huế là Di sản thế giới vào năm nào?",
+   "en": "In which year was the Complex of Hue Monuments inscribed as a UNESCO World Heritage Site?"
+  },
+  "options": [
+   {
+    "id": "a",
+    "text": {
+     "vi": "1993",
+     "en": "1993"
+    }
+   },
+   {
+    "id": "b",
+    "text": {
+     "vi": "1975",
+     "en": "1975"
+    }
+   },
+   {
+    "id": "c",
+    "text": {
+     "vi": "2003",
+     "en": "2003"
+    }
+   },
+   {
+    "id": "d",
+    "text": {
+     "vi": "2010",
+     "en": "2010"
+    }
+   }
+  ],
+  "correct": "a",
+  "hint": {
+   "vi": "Đó là thập niên 1990.",
+   "en": "It was in the 1990s."
+  },
+  "explain": {
+   "vi": "Quần thể di tích Cố đô Huế được UNESCO ghi danh năm 1993.",
+   "en": "The Complex of Hue Monuments was inscribed by UNESCO in 1993."
+  }
+ }
+]
